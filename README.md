@@ -1,5 +1,9 @@
 # 💫 About Me:
-i am currently studing in iit madras bs degree<br>i have completed a data science course <br>i love making ML models 
+🎓 BS in Data Science & Applications @ IIT Madras  
+📊 Completed a Data Science certification alongside engineering studies  
+🧠 Interested in applied Machine Learning and real-world problem solving  
+🤖 I enjoy building ML models that are clear, efficient, and a little prettier ✨
+
 
 
 ## 🌐 Socials:
