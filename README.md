@@ -1,4 +1,4 @@
-# 💫 About Me:
+i# 💫 About Me:
 🎓 BS in Data Science & Applications @ IIT Madras  
 📊 Completed a Data Science certification alongside engineering studies  
 🧠 Interested in applied Machine Learning and real-world problem solving  
